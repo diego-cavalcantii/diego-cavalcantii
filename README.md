@@ -1,7 +1,6 @@
-# Olá, eu sou Diego Silva Cavalcanti 👋
+# Olá, Diego Cavalcanti aqui!
 
-Sou um desenvolvedor Front-End com paixão por criar interfaces incríveis. Tenho experiência em **React**, **JavaScript** e **Python**, e adoro transformar ideias em soluções digitais funcionais e elegantes.
-
+Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária.  
 ## 🚀 Tecnologias e Ferramentas
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
