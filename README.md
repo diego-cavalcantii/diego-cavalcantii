@@ -1,16 +1,16 @@
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+
 # Olá, Diego Cavalcanti aqui!
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
-<a href="https://reactjs.org/" target="_blank">
-  <img src="[[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png)](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)" alt="React" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)" alt="JavaScript" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="Python" />
-</a>
+<i class="devicon-devicon-plain">https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg</i>
+<i class="devicon-devicon-plain">https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg</i>
+<i class="devicon-devicon-plain">https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg</i>
 
 ## 📊 Estatísticas do GitHub
 
