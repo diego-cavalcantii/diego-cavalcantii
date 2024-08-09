@@ -8,7 +8,7 @@
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
-![React Logo](https://reactjs.org/logo-og.png)
+![React Logo]([https://reactjs.org/logo-og.png](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png))
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 ![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
 
