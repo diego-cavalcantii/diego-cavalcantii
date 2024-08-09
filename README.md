@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
-<p align="center">
+<p>
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="HTML" width="50" height="50"/>
