@@ -1,9 +1,3 @@
- <!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
-
 # Olá, Diego Cavalcanti aqui!
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
@@ -15,7 +9,7 @@ Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 </a>
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9DQACwIWqfUKac8ZSYEwMeBoucc8YtuTnQ&s" alt="Python" />
 </a>
 
 
