@@ -8,9 +8,16 @@
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
-![React Logo]([https://reactjs.org/logo-og.png](https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png))
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+
 
 ## 📊 Estatísticas do GitHub
 
