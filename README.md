@@ -8,9 +8,9 @@
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
-<i class="devicon-devicon-plain">https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg</i>
+![React Logo](https://reactjs.org/logo-og.png)
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 ![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
-<i class="devicon-devicon-plain">https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg</i>
 
 ## 📊 Estatísticas do GitHub
 
