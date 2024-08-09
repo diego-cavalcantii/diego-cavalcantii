@@ -21,10 +21,10 @@ Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vi
 
 ## 📊 Estatísticas do GitHub
 
-<a href="https://github.com/seu-usuario">
+<a href="https://github.com/seu-usuario" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 </a>
-<a href="https://github.com/seu-usuario">
+<a href="https://github.com/seu-usuario" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </a>
 
