@@ -10,9 +10,9 @@ Sou um desenvolvedor Front-End com paixão por criar interfaces incríveis. Tenh
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Diego](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Diego](https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&theme=radical)
 
 ## 🌍 Vamos Conectar
 
