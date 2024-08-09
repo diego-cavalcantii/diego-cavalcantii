@@ -1,4 +1,4 @@
-<!-- in your header -->
+ <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- in your body -->
@@ -9,7 +9,7 @@
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
 <i class="devicon-devicon-plain">https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg</i>
-<i class="devicon-devicon-plain">https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg</i>
+![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
 <i class="devicon-devicon-plain">https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg</i>
 
 ## 📊 Estatísticas do GitHub
