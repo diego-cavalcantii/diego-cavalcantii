@@ -14,7 +14,7 @@ Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vi
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="HTML" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="CSS" width="50" height="50"/>
-  <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="CSS" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-2038872-1720085.png" alt="CSS" width="50" height="50"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-cavalcanti-a8b2b91a4/)
