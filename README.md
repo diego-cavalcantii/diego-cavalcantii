@@ -2,12 +2,15 @@
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
-<a href="https://github.com/seu-usuario" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="height: 200px; width: auto;" />
-</a>
-<a href="https://github.com/seu-usuario" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="height: 200px; width: auto;" />
-</a>
+<p>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 400px; height: 200px; object-fit: cover;" />
+  </a>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 400px; height: 200px; object-fit: cover;" />
+  </a>
+</p>
+
 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50" height="50"/>
