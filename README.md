@@ -1,9 +1,10 @@
 # Olá, Diego aqui!
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
-<div>  
-  <img height="200em src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical" alt="Estatísticas do GitHub"  />
-  <img height="200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+<div>
+  <a href="https://github.com/diego-cavalcantii">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
