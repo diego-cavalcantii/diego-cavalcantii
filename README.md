@@ -3,7 +3,7 @@
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
 <a href="https://github.com/seu-usuario" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 350px; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 3250px; height: auto;" />
 </a>
 <a href="https://github.com/seu-usuario" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-cavalcantii&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 250px; height: auto;" />
