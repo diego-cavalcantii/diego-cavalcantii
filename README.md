@@ -10,11 +10,11 @@ Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vi
 
 
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="35"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="CSS" width="40" height="35"/>
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="HTML" width="40" height="35"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-2038872-1720085.png" alt="CSS" width="40" height="35"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-2038872-1720085.png" alt="CSS" width="40" height="40"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-silva-cavalcanti-a8b2b91a4/)
