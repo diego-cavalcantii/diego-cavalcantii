@@ -1,4 +1,4 @@
-# Olá, Diego Cavalcanti aqui!
+# Olá, Diego aqui!
 
 Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 
