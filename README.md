@@ -1,6 +1,6 @@
 # Olá, Diego aqui!
 
-Sou desenvolvedor Front-End apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
+Sou desenvolvedor Web apaixonado pela tecnologia e seu impacto em nossa vida ordinária. 
 <div>
   <a href="https://github.com/diego-cavalcantii">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=diego-cavalcantii&show_icons=true&theme=vue-dark" alt="Estatísticas do GitHub"/>
